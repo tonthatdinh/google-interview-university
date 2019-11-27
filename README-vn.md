@@ -1,4 +1,3 @@
-# Google Interview University
 
 Bản gốc:
 * [English](./README.md)
@@ -237,7 +236,7 @@ Tôi cũng đang đi trên con đường này. Hãy cùng xem chúng ta đi đư
 ## Về Google
 
 - [x] Dành cho học viên - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] Search (tên sản phảm của Google) làm việc như thế nào:
+- [x] Search (tên sản phảm của Google) làm việc như thế nào:
     - [ ] [Sự phát triển của Search (The Evolution of Search) - video](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [Search làm việc như thế nào - câu chuyện (How Search Works - the story)](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [Search làm việc như thế nào (How Search Works)](https://www.google.com/insidesearch/howsearchworks/)
